@@ -1,0 +1,9 @@
+{
+  "name": "Calculadora de Gado a Pasto",
+  "short_name": "Gado a Pasto",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f7f2",
+  "theme_color": "#285d37",
+  "description": "Calculadora de ganho de peso e resultado bruto de bovinos a pasto."
+}
